@@ -4,6 +4,6 @@ export const convertDecimalToBinaryRecursive = (decimalNumber: number): string =
     }
 
     const remainder = decimalNumber % 2;
-    
+
     return convertDecimalToBinaryRecursive(Math.floor(decimalNumber / 2)) + remainder.toString();
 };

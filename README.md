@@ -10,9 +10,9 @@
 <br>
 <div align="center">
     <a href="https://github.com/nodejs" target="_blank"><img src="https://img.shields.io/badge/made_with-Node.js-green" alt="Made with Node.js"></a>
-    <a href="https://github.com/SpaceForDevelopment/Convert2Base-Package" target="_blank"><img src="https://img.shields.io/badge/npm_package-v1.0.4-blue" alt="NPM Package version"></a>
+    <a href="https://github.com/ArturColen/Convert2Base-Package" target="_blank"><img src="https://img.shields.io/badge/npm_package-v1.0.5-blue" alt="NPM Package version"></a>
     <a href="https://convert2base.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/status-in_production-yellow" alt="Status: in production"></a>
-    <a href="https://github.com/SpaceForDevelopment/Convert2Base-Package/blob/main/LICENSE.md" target="_blank"><img src="https://img.shields.io/badge/license-MIT-red" alt="MIT License"></a>
+    <a href="https://github.com/ArturColen/Convert2Base-Package/blob/main/LICENSE.md" target="_blank"><img src="https://img.shields.io/badge/license-MIT-red" alt="MIT License"></a>
 </div>
 
 ## Introduction
@@ -170,22 +170,22 @@ console.log('Testing hexToDec:');
 console.log(convertToBase.hexToDec('2A')); // Output: '42'
 ```
 
-You can view and run the example code for using the package at [src/test.ts](https://github.com/SpaceForDevelopment/Convert2Base-Package/blob/main/src/test.ts) or via [Repl.it](https://replit.com/@ArturColen/Convert2BaseTest).
+You can view and run the example code for using the package at [src/test.ts](https://github.com/ArturColen/Convert2Base-Package/blob/main/src/test.ts) or via [Repl.it](https://replit.com/@ArturColen/Convert2BaseTest).
 
 ## Contact
 
-If you want to get in touch regarding matters related to this project, you have two main channels: the [developers' website](https://spacefordevelopment.vercel.app/) or [email](mailto:arturbcolen@gmail.com).
+If you want to get in touch regarding matters related to this project, you have two main channels: Artur Bomtempo’s [LinkedIn](https://www.linkedin.com/in/artur-bomtempo/) or [e-mail](mailto:arturbcolen@gmail.com).
 
 ## Contributors
 
-The complete Convert2Base project was developed by Artur Bomtempo and Letícia França. Artur contributed to the NPM package, API, and chatbot, while Letícia created the entire graphical interface of the project, which is hosted on the web.
+The complete Convert2Base project was developed by Artur Bomtempo and Letícia França. Artur contributed to the NPM package and API, while Letícia created the entire graphical interface of the project, which is hosted on the web.
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/96635074?v=4" width=115><br><sub>Artur Bomtempo</sub>](https://github.com/ArturColen) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/99284224?v=4" width=115><br><sub>Letícia França</sub>](https://github.com/LeticiaSFranca) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/96635074?v=4" width=115><br><sub>Artur Bomtempo</sub>](https://arturbomtempo.dev) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/99284224?v=4" width=115><br><sub>Letícia França</sub>](https://www.leticiafranca.com.br) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## License
 
-Copyright (c) 2024 Space for Development
+Copyright (c) 2025 Artur Bomtempo Colen e Letícia Silva França
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
