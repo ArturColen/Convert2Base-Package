@@ -56,18 +56,18 @@ const convertToBase = require('convert2base');
 
 The Convert2Base package has 12 functions for converting between the main existing base numbers:
 
--   binToOct("number")
--   binToDec("number")
--   binToHex("number")
--   octToBin("number")
--   octToDec("number")
--   octToHex("number")
--   decToBin("number")
--   decToOct("number")
--   decToHex("number")
--   hexToBin("number")
--   hexToOct("number")
--   hexToDec("number")
+- binToOct("number")
+- binToDec("number")
+- binToHex("number")
+- octToBin("number")
+- octToDec("number")
+- octToHex("number")
+- decToBin("number")
+- decToOct("number")
+- decToHex("number")
+- hexToBin("number")
+- hexToOct("number")
+- hexToDec("number")
 
 <br>
 

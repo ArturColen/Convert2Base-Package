@@ -1,7 +1,15 @@
-import { binToDec, binToHex, binToOct } from './conversions/binary-conversions';
-import { decToBin, decToHex, decToOct } from './conversions/decimal-conversions';
-import { hexToBin, hexToDec, hexToOct } from './conversions/hexadecimal-conversions';
-import { octToBin, octToDec, octToHex } from './conversions/octal-conversions';
+import { binToDec } from './conversions/binary/binary-to-decimal-conversion';
+import { binToHex } from './conversions/binary/binary-to-hexadecimal-conversion';
+import { binToOct } from './conversions/binary/binary-to-octal-conversion';
+import { decToBin } from './conversions/decimal/decimal-to-binary-conversion';
+import { decToHex } from './conversions/decimal/decimal-to-hexadecimal-conversion';
+import { decToOct } from './conversions/decimal/decimal-to-octal-conversion';
+import { hexToBin } from './conversions/hexadecimal/hexadecimal-to-binary-conversion';
+import { hexToDec } from './conversions/hexadecimal/hexadecimal-to-decimal-conversion';
+import { hexToOct } from './conversions/hexadecimal/hexadecimal-to-octal-conversion';
+import { octToBin } from './conversions/octal/octal-to-binary-conversion';
+import { octToDec } from './conversions/octal/octal-to-decimal-conversion';
+import { octToHex } from './conversions/octal/octal-to-hexadecimal-conversion';
 
 console.log('Testing binToOct:');
 console.log(binToOct('101010')); // Output: '52'
